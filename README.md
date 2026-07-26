@@ -1,5 +1,4 @@
 # yt-low-view-hider
-Violent Monkey script Hide YT vids with a low view count
-
+Violent Monkey script to hide YT videos with a low view count
 
 Made for Brave - no clue if it works for other browsers (but why would you use another one?!)
