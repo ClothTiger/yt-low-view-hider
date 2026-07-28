@@ -6,4 +6,5 @@ Made for Brave - no clue if it works for other browsers, but why would you use a
 INSTALL
 
 Just open https://raw.githubusercontent.com/ClothTiger/yt-low-view-hider/main/yt-low-view-hider.user.js
+
 and it should add it to your ViolentMonkey extension.
