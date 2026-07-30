@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         YouTube Low View & Live Hider
 // @namespace    https://github.com/ClothTiger/yt-low-view-hider
-// @version      1.4.0
+// @version      1.5.0
 // @description  Hides YouTube videos across feeds and search results with fewer views/viewers than specified.
 // @author       You
 // @match        https://www.youtube.com/*
