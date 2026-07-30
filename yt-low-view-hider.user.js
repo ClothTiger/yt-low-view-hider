@@ -15,7 +15,7 @@
 (function () {
     'use strict';
 
-    const MIN_VIEWS = 1000;
+    const MIN_VIEWS = 3000;
 
     function parseViews(text) {
         if (!text) return null;
